@@ -1,0 +1,1 @@
+file contains python code , you can run it in your terminal , its basically a weather report program which will tell you weather, temperature, humidity, feelslike temperature and windspeed of any region in india, i have made it user friendly , so plzz try it :) 
