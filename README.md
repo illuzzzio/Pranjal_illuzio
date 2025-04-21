@@ -1,4 +1,14 @@
+
+
+These are my begineer python projects , basically every file is an individual project , you can look into it and can use them............
+
+
+
+
 FREEZY.py file contains python code , you can run it in your terminal , its basically a weather report program which will tell you weather, temperature, humidity, feelslike temperature and windspeed of any region in india, i have made it user friendly , so plzz try it :) 
+
+
+
  
 
 METALIO.py is basiaclly a browser made on pyQT5
@@ -31,9 +41,12 @@ PyQt5 is a comprehensive set of Python bindings for Qt 5, a popular C++ framewor
        pip install pyqt5-tools
 
 
+       
 
 
-elelio.py is my project , in which you can use your eyes as a cursor , and can navigate to various desktop icons and all the things in your pc .... i have used Open cv in it which provides us access to the camera of our laptop/pc etc...
+
+
+eyelio.py is my project , in which you can use your eyes as a cursor , and can navigate to various desktop icons and all the things in your pc .... i have used Open cv in it which provides us access to the camera of our laptop/pc etc...
 
 OpenCV (Open Source Computer Vision Library) is an open-source Python library used for computer vision and image processing. It's widely used for tasks like:
 
